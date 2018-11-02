@@ -7,7 +7,7 @@ $siteName='DouDouTube';
 
 //youtube API V3 KEY:
 
-$key='AIzaSyARHJJDFtwb5wcnURwwJA3FQRrM16PF27c';
+$key='AIzaSyAsB-IBNnHJeLivWsYR3w4VxGvHTBkF-kA';
 
 
 //其他地方不用改。
