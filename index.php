@@ -7,7 +7,7 @@ $siteName='YouTube';
 
 //youtube API V3 KEY:
 
-$key='AIzaSyC6KzNDEkemuWT2oHdKfFenAVat4gCRdNs';
+$key='AIzaSyA8Thk7BByqTFHRn9kX0KvyfY_Y-d2-4Cs';
 
 
 //其他地方不用改。
